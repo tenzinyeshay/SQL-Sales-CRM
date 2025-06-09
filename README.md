@@ -1,10 +1,4 @@
-# SQL-Sales-CRM
-
 # 📊 SQL Sales CRM Analysis
-
-**Project Path:** `SQL-Sales-CRM`  
-**Status:** Completed  
-**Tools Used:** SQL (MySQL/PostgreSQL)
 
 ## 🚀 Overview
 
